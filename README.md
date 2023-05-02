@@ -13,6 +13,7 @@
 
 ### `Network Mapping`
 [![Network Scanner](https://github-readme-stats.vercel.app/api/pin/?username=Kairos-T&repo=Network-Scanner&theme=dark&border_color=565656)](https://github.com/Kairos-T/Network-Scanner)
+[![Port Scanner](https://github-readme-stats.vercel.app/api/pin/?username=Kairos-T&repo=Port-Scanner&theme=dark&border_color=565656)](https://github.com/Kairos-T/Port-Scanner)
 
 ### `Natural Language Processing (NLP)`
 
